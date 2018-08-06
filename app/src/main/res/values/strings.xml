@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exploring Kotlin</string>
+    <string name="KotlinFeatures">MVP design pattern</string>
+    <string name="call_service">Calling webservice</string>
+    <string name="retro_room">Retrofit and Room DB</string>
+    <string name="view_pager">View pager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
