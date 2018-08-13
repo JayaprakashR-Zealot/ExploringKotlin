@@ -5,7 +5,6 @@ import retrofit2.Call
 import retrofit2.http.GET
 
 interface IUser{
-
     @GET ("users")
     fun getAllUsers() : Call<RetroUser>
 }
